@@ -23,3 +23,8 @@ AI can write code to upgrade a model. We are grading your **understanding**. If 
 *   **The Hidden Gems:** The intern ignored all "Object" columns. Is there really no value in knowing a customer's `Education` or `Marital_Status`?
 *   **New Perspectives:** `Year_Birth` is just a number. `Age` is a feature. Are there other ways to combine columns to tell a better story?
 *   **The Silent Majority:** Look at the distribution of the `Response` variable. If 85% of people say "No," a model that just guesses "No" every time will be 85% accurate... but is it a *good* model?
+
+## Execution Instructions
+- **Python Version**: Python 3.10+
+- **Install Dependencies**: `pip install -r requirements.txt`
+- **Run Improved Model**: `python improved.py`
